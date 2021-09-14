@@ -13,8 +13,6 @@ Install Gator Grids for free from Microsoft AppSource. Click <strong>Insert > Of
 
 ## Getting Started
 
----
-
 <h3>Install the add-in</h3>
 
 Gator Grids is <b>coming soon</b> to Microsoft AppSource! Search for it in Excel by clicking <b>Insert > Add-ins</b> and searching for Gator Grids.
@@ -60,8 +58,6 @@ To create a Grid, your data must be in a <a href=https://support.microsoft.com/e
 
 ## About
 
----
-
 Gator Grids helps people create and maintain Excel reports faster and better.
 
 ### How it works
@@ -84,12 +80,8 @@ My name is Ryan Jensen. I have Master's degree in accounting and am working on a
 
 ## Contributing
 
----
-
 For now, I have decided not to open-source this project, although the add-in is available for free. If you want to contribute, please reach out to me privately and express your interest.
 
 ## Issues
-
----
 
 Please use this repo to log issues or bugs. I am currently a team of one and a full-time student, so please understand that it may take some time for me to push updates.
