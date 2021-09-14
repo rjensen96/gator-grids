@@ -72,7 +72,7 @@ When compared to formulas and Pivot tables, Gator Grids is a clear winner. Grids
 
 ### Powered by Office.js
 
-Gator Grids a modern Office Add-in built with Office.js and the React framework. You can use it on Windows and Mac, both online and in the desktop.
+Gator Grids a modern Office Add-in built with <a href="https://docs.microsoft.com/en-us/office/dev/add-ins/overview/office-add-ins" target="blank">Office.js</a> and the React framework. You can use it on Windows and Mac, both online and in the desktop.
 
 ### Developer
 
