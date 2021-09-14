@@ -11,33 +11,23 @@ Connect to a table in your Excel workbook and assign filters to rows and columns
 
 Install Gator Grids for free from Microsoft AppSource. Click <strong>Insert > Office Add-ins</strong> in Excel to get started.
 
-<br>
-
 ## Getting Started
 
 ---
-
-<br>
 
 <h3>Install the add-in</h3>
 
 Gator Grids is <b>coming soon</b> to Microsoft AppSource! Search for it in Excel by clicking <b>Insert > Add-ins</b> and searching for Gator Grids.
 
-<br>
-
 <h3>Make a table</h3>
 
 To create a Grid, your data must be in a <a href=https://support.microsoft.com/en-us/office/overview-of-excel-tables-7ab0bb7d-3a9e-4b56-a3c9-6c94334e492c target="blank">Table<NewTabIcon /></a>. One quick way to create a table is to select your data and click <strong>Home > Format as Table</strong>.
-
-<br>
 
 <h3>Select columns and rows</h3>
 <p>
     On a different worksheet, Select a full column where you want data. You can use any worksheet, but the first
     cell must be blank. For example, if you select Column C, cell C1 must be clear.
 </p>
-
-<br>
 
 <h3>Pick data source & filters</h3>
 
@@ -51,8 +41,6 @@ To create a Grid, your data must be in a <a href=https://support.microsoft.com/e
     Repeat this process for a few rows and columns.
 </p>
 
-<br>
-
 <h3>Refresh</h3>
 
 <p>
@@ -60,8 +48,6 @@ To create a Grid, your data must be in a <a href=https://support.microsoft.com/e
     GatorKeys intersect, Gator Grids will merge your row and column filter settings and aggregate your data,
     returning the result in each cell.
 </p>
-
-<br>
 
 <h3>Bonus: View mode</h3>
 <p>
@@ -72,17 +58,11 @@ To create a Grid, your data must be in a <a href=https://support.microsoft.com/e
     in common. View mode also turns green to indicate that you have selected multiple GatorKeys.
 </p>
 
-<br>
-
 ## About
 
 ---
 
-<br>
-
 Gator Grids helps people create and maintain Excel reports faster and better.
-
-<br>
 
 ### How it works
 
@@ -94,27 +74,19 @@ Filter settings are saved as a custom XML part in the workbook. Gator Grids does
 
 When compared to formulas and Pivot tables, Gator Grids is a clear winner. Grids are easier to maintain and create. Creating a Grid requires no extra technical knowledge. The only requirement is that a user knows what they want to see.
 
-<br>
-
 ### Powered by Office.js
 
 Gator Grids a modern Office Add-in built with Office.js and the React framework. You can use it on Windows and Mac, both online and in the desktop.
 
-<br>
-
 ### Developer
 
 My name is Ryan Jensen. I have Master's degree in accounting and am working on a Master's degree in Software Development. While working as an accountant and financial analyst, I saw a great need for a tool like this in my own work. I hope that this tool can help you in your Excel work as well.
-
-<br>
 
 ## Contributing
 
 ---
 
 For now, I have decided not to open-source this project, although the add-in is available for free. If you want to contribute, please reach out to me privately and express your interest.
-
-<br>
 
 ## Issues
 
