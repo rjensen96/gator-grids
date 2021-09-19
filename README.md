@@ -4,8 +4,7 @@
 
 Gator Grids helps you sum up your data exactly the way you want - without writing a single formula.
 
-<img src="./gg_1.gif" />
-![Gator Grids Demo](./GG_sample.gif)
+<img src="./gg_1.gif" height=400 />
 
 Connect to a table in your Excel workbook and assign filters to rows and columns. In cells where those filters intersect, you get data!
 
