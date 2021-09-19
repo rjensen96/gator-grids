@@ -87,7 +87,7 @@ Gator Grids a modern Office Add-in built with <a href="https://docs.microsoft.co
 
 ## Developer
 
-My name is Ryan Jensen. I am pursuing a Master's degree in Software Development at the University of Utah. Additionally, I have a Master's degree in accounting. While working as an accountant and financial analyst, I saw a great need for a tool like Gator Grids in my own work. I hope that this tool can help you work more efficiently in Excel as well.
+My name is Ryan Jensen. I am pursuing a Master's degree in Software Development at the University of Utah. I also have a Master's degree in accounting from Brigham Young University. While working as an accountant and financial analyst, I saw a great need for a tool like Gator Grids in my own work. I hope that this tool can help you work more efficiently in Excel as well.
 
 ## Contributing
 
