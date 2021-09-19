@@ -4,8 +4,6 @@
 
 Gator Grids helps you sum up your data exactly the way you want - without writing a single formula.
 
-<img src="./gg_1.gif" height=400 />
-
 Connect to a table in your Excel workbook and assign filters to rows and columns. In cells where those filters intersect, you get data!
 
 Install Gator Grids for free from Microsoft AppSource. Click <strong>Insert > Office Add-ins</strong> in Excel to get started.
@@ -26,6 +24,8 @@ To create a Grid, your data must be in a <a href=https://support.microsoft.com/e
     cell must be blank. For example, if you select Column C, cell C1 must be clear.
 </p>
 
+<img src="./gg_1.gif" height=400 />
+
 <h3>Pick data source & filters</h3>
 
 <p>
@@ -45,6 +45,8 @@ To create a Grid, your data must be in a <a href=https://support.microsoft.com/e
     GatorKeys intersect, Gator Grids will merge your row and column filter settings and aggregate your data,
     returning the result in each cell.
 </p>
+
+<img src="./gg_2.gif" height=400 />
 
 <h3>Bonus: View mode</h3>
 <p>
