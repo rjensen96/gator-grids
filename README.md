@@ -69,6 +69,14 @@ Click `Refresh Grids` to calculate cells in the Grid. At each intersection of a 
 
 Filter settings are saved as a custom XML part in the workbook. Gator Grids does not use an external server to store data because everything is embedded directly into the workbook.
 
+### Key advantages
+
+Creating a Grid is easy no matter how many levels of filters you want to include, unlike formulas or pivot tables which quickly become complex.
+
+GatorKeys are reusable with a simple copy and paste, which can significantly reduce maintenance time for sets of related reports. For example, you can copy and paste the cell values of GatorKeys to use those filters in other sheets in your workbook. This way, you only need to change the GatorKey's settings one time to update every instance of that key.
+
+GatorKeys can also be copied and pasted with a new unique value to reuse filter settings without making interdependent keys.
+
 When compared to formulas and Pivot tables, Gator Grids is a clear winner. Grids are easier to maintain and create. Creating a Grid requires no extra technical knowledge. The only requirement is that a user knows what they want to see.
 
 ### Powered by Office.js
