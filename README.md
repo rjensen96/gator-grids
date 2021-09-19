@@ -83,7 +83,9 @@ When compared to formulas and Pivot tables, Gator Grids is a clear winner. Grids
 
 Gator Grids a modern Office Add-in built with <a href="https://docs.microsoft.com/en-us/office/dev/add-ins/overview/office-add-ins" target="blank">Office.js</a> and the React framework. You can use it on Windows and Mac, both online and in the desktop.
 
-### Developer
+---
+
+## Developer
 
 My name is Ryan Jensen. I am pursuing a Master's degree in Software Development at the University of Utah. Additionally, I have a Master's degree in accounting. While working as an accountant and financial analyst, I saw a great need for a tool like Gator Grids in my own work. I hope that this tool can help you work more efficiently in Excel as well.
 
