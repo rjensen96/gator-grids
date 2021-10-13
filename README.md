@@ -10,11 +10,11 @@ Connect to a table in your Excel workbook and assign filters to rows and columns
 
 <h3>Install the add-in</h3>
 
-Gator Grids is available for free in Microsoft AppSource! Install it directly in Excel by clicking <b>Insert > Get Add-ins</b> and searching for Gator Grids. You can also install it directly from <a href=https://appsource.microsoft.com/en-us/product/office/WA200003346 target="blank">AppSource</a>.
+Gator Grids is available for free in Microsoft AppSource! Install it directly in Excel by clicking <b>Insert > Get Add-ins</b> and searching for Gator Grids. You can also install it directly from <a href=https://appsource.microsoft.com/en-us/product/office/WA200003346 target="_blank">AppSource</a>.
 
 <h3>Make a table</h3>
 
-To create a Grid, your data must be in a <a href=https://support.microsoft.com/en-us/office/overview-of-excel-tables-7ab0bb7d-3a9e-4b56-a3c9-6c94334e492c target="blank">Table<NewTabIcon /></a>. One quick way to create a table is to select your data and click <strong>Home > Format as Table</strong>.
+To create a Grid, your data must be in a <a href=https://support.microsoft.com/en-us/office/overview-of-excel-tables-7ab0bb7d-3a9e-4b56-a3c9-6c94334e492c target="_blank">Table</a>. One quick way to create a table is to select your data and click <strong>Home > Format as Table</strong>.
 
 <h3>Select columns and rows</h3>
 <p>
