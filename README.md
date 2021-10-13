@@ -2,7 +2,7 @@
 
 ## Meet your friendly aggre-gator!
 
-Gator Grids helps you sum up your data exactly the way you want - without writing formulas.
+Gator Grids is an Excel add-in that helps you sum your data exactly the way you want - without writing formulas.
 
 Connect to a table in your Excel workbook and assign filters to rows and columns. In cells where those filters intersect, you get data!
 
@@ -10,7 +10,7 @@ Connect to a table in your Excel workbook and assign filters to rows and columns
 
 <h3>Install the add-in</h3>
 
-Gator Grids is available for free in Microsoft AppSource! Install it directly in Excel by clicking <b>Insert > Get Add-ins</b> and searching for Gator Grids.
+Gator Grids is available for free in Microsoft AppSource! Install it directly in Excel by clicking <b>Insert > Get Add-ins</b> and searching for Gator Grids. You can also install it directly from <a href=https://appsource.microsoft.com/en-us/product/office/WA200003346 target="blank">AppSource</a>.
 
 <h3>Make a table</h3>
 
