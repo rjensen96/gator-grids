@@ -6,6 +6,8 @@ Gator Grids is an Excel add-in that helps you sum your data exactly the way you 
 
 Connect to a table in your Excel workbook and assign filters to rows and columns. In cells where those filters intersect, you get data!
 
+The code for this project is not open-source, but the add-in is available for free. This repository is here to host discussions, log issues, and provide some training about the app.
+
 ## Getting Started
 
 <h3>Install the add-in</h3>
