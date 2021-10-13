@@ -1,18 +1,16 @@
-# Gator Grids [Coming Soon!]
+# Gator Grids
 
 ## Meet your friendly aggre-gator!
 
-Gator Grids helps you sum up your data exactly the way you want - without writing a single formula.
+Gator Grids helps you sum up your data exactly the way you want - without writing formulas.
 
 Connect to a table in your Excel workbook and assign filters to rows and columns. In cells where those filters intersect, you get data!
-
-Install Gator Grids for free from Microsoft AppSource. Click <strong>Insert > Office Add-ins</strong> in Excel to get started.
 
 ## Getting Started
 
 <h3>Install the add-in</h3>
 
-Gator Grids is <b>coming soon</b> to Microsoft AppSource! Search for it in Excel by clicking <b>Insert > Add-ins</b> and searching for Gator Grids.
+Gator Grids is available for free in Microsoft AppSource! Install it directly in Excel by clicking <b>Insert > Get Add-ins</b> and searching for Gator Grids.
 
 <h3>Make a table</h3>
 
@@ -87,7 +85,7 @@ Gator Grids a modern Office Add-in built with <a href="https://docs.microsoft.co
 
 ## Developer
 
-My name is Ryan Jensen. I am pursuing a Master's degree in Software Development at the University of Utah. I also have a Master's degree in accounting from Brigham Young University. While working as an accountant and financial analyst, I saw a great need for a tool like Gator Grids in my own work. I hope that this tool can help you work more efficiently in Excel as well.
+My name is Ryan Jensen. I am pursuing a Master's degree in Software Development at the University of Utah. I also have a Master's degree in Accounting from Brigham Young University. While working as an accountant and financial analyst, I saw a great need for a tool like Gator Grids in my own work. I hope that this tool can help you work more efficiently in Excel as well.
 
 ## Contributing
 
